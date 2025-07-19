@@ -6,8 +6,9 @@ A full-stack MERN application for managing employee leaves with role-based acces
 
 ## Live Demo
 
-- **Frontend (Netlify):**(https://your-netlify-app-url)
-- **Backend (Render):** (https://smart-leave-management-system.onrender.com)
+- **Frontend (Netlify):**https://smartleavemanagement.netlify.app/
+- **Backend (Render):** https://smart-leave-management-system.onrender.com
+- **Github:**https://github.com/Shivam24S/smart-leave-management-system
 
 ---
 
@@ -127,3 +128,5 @@ VITE_API_BASE_URL=https://smart-leave-management-system.onrender.com/api
 - **Deployment:** Render (backend), Netlify (frontend), Railway (MySQL)
 
 ---
+
+![alt text](./frontend//public/image.png)
